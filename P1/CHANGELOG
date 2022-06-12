@@ -1,0 +1,8 @@
+Version 1.0.4
+
+GENERAL:
+Añadido a server.conf la opción para cambiar la ip del servidor.
+Readme actualizado, con instrucciones para acceder al servidor.
+
+SCRIPTS:
+Se han borrado las tildes, que daban problemas al no usar python3.
